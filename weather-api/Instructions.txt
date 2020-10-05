@@ -1,0 +1,10 @@
+Below are the pre-requisites:
+
+
+
+##    AWS account & AWS credentials (required)
+##    Terraform (required)
+##    aws-cli (optional but recommended)
+##    Go (optional but recommended)
+##    Clone accompanied github repo (required)
+
